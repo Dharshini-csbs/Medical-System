@@ -1,0 +1,2 @@
+"""Medical Management System package."""
+
